@@ -1,3 +1,7 @@
+/*
+Autor: João Paulo Lima de ALbuquerque.
+Linkedin: https://www.linkedin.com/in/jpladeveloper/
+*/
 const fs = require('fs');
 
 // Função para remover acentos
